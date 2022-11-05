@@ -8,4 +8,4 @@ Anyone can use this extension in the browser by cloning and following [this](htt
 - This extension does not require special permissions or additional site access.
 
 
-Tested in Chrome Version ^107.0.5304. For automated clicking, remove two forward slash (//) from these lines.
+Tested in Chrome Version ^107.0.5304. For automated clicking, remove two forward slash (//) from [this](https://github.com/thetlwinlwin/coursera_notes_downloader_extension/blob/09e75f63c17bb172adc5a0d1ada3d349992cbaa7/main.js#L115) to [this](https://github.com/thetlwinlwin/coursera_notes_downloader_extension/blob/09e75f63c17bb172adc5a0d1ada3d349992cbaa7/main.js#L124) lines.
